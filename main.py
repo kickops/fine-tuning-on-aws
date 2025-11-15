@@ -1,5 +1,5 @@
 def main():
-    print("Hello from fine-tuning-on-aws!")
+    print("Hello from finetuning-on-aws!")
 
 
 if __name__ == "__main__":
